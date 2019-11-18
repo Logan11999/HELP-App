@@ -9,5 +9,5 @@
 
 ## Links
 
-- [Demo]() Coming soon!
+- [Demo](https://logan11999.github.io/HELP-App/)
 - [Source](https://github.com/Logan11999/HELP-App)
